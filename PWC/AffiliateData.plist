@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>affiliateitems</key>
+        <array>
+            <dict>
+                <key>itemName</key>
+                <string>Manage Programs</string>
+                <key>itemUrl</key>
+                <string>affiliateprogram</string>
+            </dict>
+            <dict>
+                <key>itemName</key>
+                <string>Manage Affiliates</string>
+                <key>itemUrl</key>
+                <string>affiliatelist</string>
+            </dict>
+            <dict>
+                <key>itemName</key>
+                <string>Affiliate Approval</string>
+                <key>itemUrl</key>
+                <string>affiliateapproval</string>
+            </dict>
+        </array>
+    </dict>
+</plist>
